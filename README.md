@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://github.com/malikkarim14/malikkarim14/blob/main/header.png" alt="banner that says Abdurrahman Malik Karim">
+
 <!--
 **malikkarim14/malikkarim14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
