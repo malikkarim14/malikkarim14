@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">A full-time data enthusiast 👨‍💻 </div>  
+### <div align="center">A full-time data enthusiast 👨‍💻 from 🇮🇩</div>  
   
 
 - 🔭 I’m currently working on "Insights from Failed Orders at Gett"  
