@@ -6,7 +6,7 @@
 ### <div align="center">A full-time data enthusiast 👨‍💻 from 🇮🇩</div>  
   
 
-- 🔭 I’m currently working on "Delivery Duration Prediction"  
+- 🔭 I’m currently working on "Delivery Duration Prediction at DoorDash"  
   
 
 - 🌱 I’m currently learning Nonparameteric Machine Learning Algorithms  
