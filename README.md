@@ -6,7 +6,7 @@
 ### <div align="center">A full-time data enthusiast 👨‍💻 from 🇮🇩</div>  
   
 
-- 🔭 I’m currently working on "Insights from Failed Orders at Gett"  
+- 🔭 I’m currently working on "Delivery Duration Prediction"  
   
 
 - 🌱 I’m currently learning Nonparameteric Machine Learning Algorithms  
@@ -48,6 +48,3 @@
 </div>  
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
